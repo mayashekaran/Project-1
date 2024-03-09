@@ -1,7 +1,8 @@
 # Project-1
 Project 1 - based on beer and breweries datasets.
 
-Requirements: (1) RStudio
+Requirements: 
+              (1) RStudio
 
               (2) Libraries: - library(tidyverse) - library(dplyr) - library(stringr) - library(ggplot2)
 
