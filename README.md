@@ -15,4 +15,4 @@ Data sets (included in repository):
 
   (2) Breweries.csv Columns: - Brew_ID - Name - City - State
 
-R-markdown: BEERS&BREWERIES.rmd
+R-markdown: Beer_MC.rmd
